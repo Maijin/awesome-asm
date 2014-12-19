@@ -1,4 +1,4 @@
-Awesome Assembler
+Awesome Assembler [[wiki]](https://en.wikipedia.org/wiki/Assembly_language#Assembler)
 ----------
 ![](http://i.imgur.com/tr6tTZE.png)
 
