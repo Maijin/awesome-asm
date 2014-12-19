@@ -7,7 +7,11 @@ A curated list of awesome Assembler :)
 ----------
 Books
 ----------
-Soon.
+* *[Modern X86 Assembly Language Programming](http://www.apress.com/9781484200650)*
+>32-bit, 64-bit, SSE, and AVX by **Daniel Kusswurm**
+
+* *[.NET IL Assembler](http://www.apress.com/9781430267614)*
+>Common Intermediate Language ([wiki](https://en.wikipedia.org/wiki/Common_Intermediate_Language)) by **Serge Lidin**
 
 External links
 ----------
