@@ -59,6 +59,12 @@ Books
 
 * *[.NET IL Assembler](http://www.apress.com/9781430267614)*
 >Common Intermediate Language ([wiki](https://en.wikipedia.org/wiki/Common_Intermediate_Language)) by **Serge Lidin**
+>
+* *[Assembly Language for x86 Processors, 7th edition](http://kipirvine.com/asm/)*
+>by **Kip Irvine** (great book!)
+
+* *[The Art of Assembly Language, 2nd Edition](http://www.nostarch.com/assembly2.htm)*
+>by **Randall Hyde**
 
 External links
 ----------
