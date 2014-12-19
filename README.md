@@ -14,6 +14,9 @@ Assembler List
 * *[Netwide Assembler (NASM)](http://www.nasm.us/)*
 >is an assembler and disassembler for the Intel x86 architecture
 
+* *[ILASM - IL Assembler](http://msdn.microsoft.com/en-us/library/496e4ekx%28v=VS.100%29.aspx)*
+>ILAsm (IL Assembler) generates a portable executable (PE) file from Common Intermediate Language (CIL) code
+
 * *[YASM](http://yasm.tortall.net/)*
 >is an assembler and disassembler for the Intel x86 architecture. Yasm is a full rewrite of Netwide Assembler (NASM).
 
@@ -45,6 +48,9 @@ Disassembler
 
 * *Syser*
 >Syser Kernel Debugger is designed for Windows NT Family based on X86 platform. It is a kernel debugger with full-graphical interfaces and supports assembly debugging and source code debugging.
+
+* *ILDASM*
+>.NET Disassembler
 
 Books
 ----------
