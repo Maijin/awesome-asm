@@ -28,6 +28,9 @@ Disassembler
 * *[IDA PRO or Hex-Rays](https://www.hex-rays.com/products/ida/index.shtml)*
 >32/64-bit proprietary software. [wiki](http://en.wikipedia.org/wiki/Interactive_Disassembler)
 
+* *[IDA Free](https://www.hex-rays.com/products/ida/support/download_freeware.shtml)* 
+>The freeware version of IDA v5.0
+
 * *[OllyDbg](http://en.wikipedia.org/wiki/OllyDbg)*
 >is an x86 debugger that emphasizes binary code analysis, which is useful when source code is not available. most popular!
 
@@ -74,6 +77,7 @@ External links
 * [Assembly Language Programming Examples](http://www.azillionmonkeys.com/qed/asmexample.html)	
 * [Authoring Windows Applications In Assembly Language](http://www.grc.com/smgassembly.htm)
 * [Assembly Optimization Tips by Mark Larson](http://mark.masmcode.com/)
+* [Introduction to programming using Linux assembly language](http://www.programminggroundup.blogspot.fi/)
 
 ----------
 
